@@ -1,1 +1,1 @@
-print("gay")
+print("John is cute")
